@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaLecturasRfid", "ConsolaLecturasRfid\ConsolaLecturasRfid.csproj", "{B057BD3A-2159-4FE1-96FC-9161ED7954A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EstadoArcos", "EstadoArcos\EstadoArcos.vdproj", "{BEFCEF8C-9B19-4B19-BCCF-25EF8355547E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B057BD3A-2159-4FE1-96FC-9161ED7954A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B057BD3A-2159-4FE1-96FC-9161ED7954A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B057BD3A-2159-4FE1-96FC-9161ED7954A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B057BD3A-2159-4FE1-96FC-9161ED7954A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFCEF8C-9B19-4B19-BCCF-25EF8355547E}.Debug|Any CPU.ActiveCfg = Debug
+		{BEFCEF8C-9B19-4B19-BCCF-25EF8355547E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDEBBF7-E409-466C-A640-8501D2D73E14}
+	EndGlobalSection
+EndGlobal
