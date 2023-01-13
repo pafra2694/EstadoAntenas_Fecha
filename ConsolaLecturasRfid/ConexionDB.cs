@@ -40,7 +40,6 @@ namespace ConsolaLecturasRfid
         {
             try
             {
-                conexion = new MySqlConnection(conexionstringBD);
                 if (conexion.State == System.Data.ConnectionState.Closed)
                 {
                     conexion.Close();
