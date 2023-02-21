@@ -10,7 +10,7 @@ namespace ConsolaLecturasRfid
 {
     public class ConexionDB
     {
-        private static string conexionstringBD = "datasource=localhost; port=3306; username=root; password= ;database=rfid_lpr";
+        private static string conexionstringBD = "datasource=localhost; port=3306; username=root; password= ;database=rfid_lpr1";
 
         private MySqlConnection conexion = null;
 
